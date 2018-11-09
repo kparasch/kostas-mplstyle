@@ -1,0 +1,40 @@
+patch.linewidth : 3
+lines.linewidth : 3
+lines.markersize : 10
+
+text.usetex : True
+text.latex.unicode : True
+text.latex.preamble : \boldmath
+
+xtick.direction : in
+xtick.labelsize : 16
+xtick.minor.visible : True
+ytick.direction : in
+ytick.labelsize : 16
+ytick.minor.visible : True
+
+axes.linewidth : 2
+axes.titlesize : 24
+axes.labelsize : 20
+axes.labelweight : bold
+axes.grid : True
+#axes.formatter.use_mathtext : True
+axes.formatter.limits : -2,2
+axes.unicode_minus  : True 
+
+font.weight : bold
+mathtext.default : bf
+
+grid.linestyle : --
+grid.linewidth : 1.5
+
+legend.fontsize : large
+legend.frameon : False
+legend.fancybox : False
+
+figure.figsize : 10,10
+figure.subplot.left : 0.15 
+figure.subplot.right : 0.99
+figure.subplot.bottom : 0.15
+figure.subplot.top : 0.92
+
