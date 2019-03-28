@@ -35,7 +35,7 @@ legend.fancybox : False
 
 figure.figsize : 10,10
 figure.subplot.left : 0.15 
-figure.subplot.right : 0.99
+figure.subplot.right : 0.95
 figure.subplot.bottom : 0.15
 figure.subplot.top : 0.92
 
