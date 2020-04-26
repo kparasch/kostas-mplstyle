@@ -3,7 +3,6 @@ lines.linewidth : 3
 lines.markersize : 10
 
 text.usetex : True
-#text.latex.unicode : True
 text.latex.preamble : \boldmath
 
 xtick.direction : in
