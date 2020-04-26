@@ -3,7 +3,7 @@ lines.linewidth : 3
 lines.markersize : 10
 
 text.usetex : True
-text.latex.unicode : True
+#text.latex.unicode : True
 text.latex.preamble : \boldmath
 
 xtick.direction : in
@@ -29,13 +29,13 @@ mathtext.default : bf
 grid.linestyle : --
 grid.linewidth : 1.5
 
-legend.fontsize : large
+legend.fontsize : 20.
 legend.frameon : False
 legend.fancybox : False
 
-figure.figsize : 10,10
+figure.figsize : 10,5.625
 figure.subplot.left : 0.15 
-figure.subplot.right : 0.95
+figure.subplot.right : 0.90
 figure.subplot.bottom : 0.15
-figure.subplot.top : 0.92
+figure.subplot.top : 0.90
 
